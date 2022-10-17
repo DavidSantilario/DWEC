@@ -1,2 +1,2 @@
 # DWEC
-Repositorio para Desaroyo Web ntorno cliente
+Repositorio para Desaroyo Web Entorno Cliente
